@@ -10,4 +10,9 @@ Clone the repo and execute the following command:
 ```bash
  ./Main.ps1 -VMName "<vm_name>"
 ```
+
+## Related
+
+I use a file to move gpu driver in the vm this is the relating project: [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV)
+
     
